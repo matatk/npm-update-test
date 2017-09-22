@@ -1,0 +1,9 @@
+{
+  "name": "npm-update-test",
+  "version": "0.1.0",
+  "private": true,
+  "repository": "https://github.com/matatk/npm-update-test.git",
+  "devDependencies": {
+    "eslint": "~4.7"
+  }
+}
